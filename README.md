@@ -1,6 +1,18 @@
 <!-- Header Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:ff9900&height=200&section=header&text=HanzyTzy-ID&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=HanzyTzy-ID&fontSize=50&fontColor=00ffcc&animation=twinkling&fontAlignY=35"/>
+</p>
+
+<!-- Animasi Teks Ketik -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00FFCC&center=true&vCenter=true&width=600&lines=Welcome+to+my+Galaxy!;Fullstack+Developer+%7C+Bot+Developer;Always+Exploring+the+Universe+of+Code" />
+  </a>
+</p>
+
+<!-- Background Galaxy GIF -->
+<p align="center">
+  <img src="https://i.gifer.com/3klW.gif" width="100%" height="200px" style="border-radius: 15px;"/>
 </p>
 
 <!-- Badges Sosial -->
@@ -28,34 +40,25 @@
 
 <!-- Statistik GitHub -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HanzyTzy-ID&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HanzyTzy-ID&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HanzyTzy-ID&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HanzyTzy-ID&theme=github-dark&hide_border=true" />
 </p>
 
 <!-- Bahasa yang sering digunakan -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanzyTzy-ID&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanzyTzy-ID&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-<!-- GIF Animasi -->
+<!-- Galaxy Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="500"/>
 </p>
 
 ---
-
-<!-- Quote Random -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
->>>>>>> 3fe9935 (Update profil README)
 
 <!-- Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9900,100:ff0000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=120&section=footer"/>
 </p>
- 
