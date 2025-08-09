@@ -12,12 +12,12 @@
 
 <!-- Badges Sosial -->
 <p align="center">
-  <a href="https://youtube.com/@hanzytzy" target="_blank">
+  <a href="https://youtube.com/@HanzyTzy-ID" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="https://t.me/username" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-FF4444?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
+<a href="https://wa.me/6285771179816" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
   <a href="https://github.com/HanzyTzy-ID" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-660000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
