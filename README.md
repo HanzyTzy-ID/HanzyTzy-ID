@@ -1,12 +1,3 @@
-# 1️⃣ Masuk ke folder repo
-cd ~/HanzyTzy-ID
-
-# 2️⃣ Ambil update terbaru biar nggak konflik
-git fetch origin main
-git reset --hard origin/main
-
-# 3️⃣ Tulis README.md baru
-cat > README.md << 'EOF'
 <!-- Header Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:660000,100:ff0000&height=200&section=header&text=HanzyTzy-ID&fontSize=50&fontColor=ffcccc&animation=twinkling&fontAlignY=35"/>
@@ -59,9 +50,3 @@ cat > README.md << 'EOF'
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:660000&height=120&section=footer"/>
 </p>
-EOF
-
-# 4️⃣ Commit dan push ke GitHub
-git add README.md
-git commit -m "Update README.md ke tema merah galaksi"
-git push origin main
